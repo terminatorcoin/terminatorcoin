@@ -1,2 +1,0 @@
-# terminatorcoin
-TerminatorCoin
